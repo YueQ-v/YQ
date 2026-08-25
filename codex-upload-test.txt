@@ -1,0 +1,3 @@
+Codex GitHub upload connectivity test.
+No project source code, credentials, logs, or personal data are included.
+Created: 2026-08-26 (Asia/Shanghai)
